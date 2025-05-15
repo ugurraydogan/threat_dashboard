@@ -23,7 +23,6 @@ Bu proje, gerçek zamanlı olarak ağ trafiğini izleyen, sistem kaynaklarını 
 
 ### 🔧 Gerekli Python kütüphaneleri:
 
-```bash
 pip install flask flask-socketio scapy psutil requests beautifulsoup4
 
 🗂️ Kurulum
